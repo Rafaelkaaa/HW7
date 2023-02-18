@@ -1,0 +1,11 @@
+/shelf/
+/workspace.xml
+.idea/
+.gradle/
+gradle-app.setting
+.project
+.classpath
+build/
+gradlew
+gradlew.bat
+.png
